@@ -1,2 +1,2 @@
-To be or not to be.
-That is a question.
+Git is a distributed version control system.
+Git is free software.
